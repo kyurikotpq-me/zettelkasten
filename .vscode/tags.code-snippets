@@ -1,0 +1,15 @@
+{
+  "Tags and References Template": {
+    "scope": "markdown",
+    "prefix": "tags",
+    "description": "Include tags and references for the post",
+    "body": [
+      "---",
+      "Tags:",
+      "#$1",
+      "",
+      "References:",
+      "[[$2]]"
+    ]
+  }
+}

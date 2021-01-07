@@ -1,0 +1,10 @@
+{
+  "Current HH:MM": {
+    "scope": "markdown",
+    "prefix": "ctime",
+    "description": "Get the current time (HH:MM)",
+    "body": [
+      "${CURRENT_HOUR}:${CURRENT_MINUTE}",
+    ]
+  }
+}

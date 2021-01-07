@@ -1,0 +1,15 @@
+{
+  "markdown.styles": ["style.css"],
+  "[markdown]": {
+    "editor.quickSuggestions": true
+  },
+  "files.exclude": {
+    "**/node_modules": true
+  },
+  "files.watcherExclude": {
+    "**/node_modules": true
+  },
+  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+  "notesMacro.weeklyDir": "journal/2021/weekly-2021",
+  "notesMacro.dailyDir": "journal/2021/daily-2021",
+}
